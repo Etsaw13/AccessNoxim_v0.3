@@ -43,151 +43,151 @@ Layer 0
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
+16	0	16	16	16	16	16	16	
+16	0	16	16	16	16	16	16	
+16	16	16	0	16	0	16	16	
 16	16	16	16	16	16	16	16	
+Layer 1
+16	16	16	16	16	16	16	16	
+16	16	0	16	16	16	16	16	
+16	0	16	16	16	16	16	16	
+16	16	16	0	16	16	16	16	
+16	16	0	16	16	16	16	16	
+16	16	0	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+Layer 2
+16	16	16	16	16	16	16	16	
+16	16	0	16	16	16	16	16	
+16	16	0	16	16	16	16	16	
+16	16	0	16	16	16	16	16	
+16	16	16	16	0	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+Layer 3
+16	16	16	16	16	16	16	16	
+16	0	16	16	0	16	16	16	
+16	0	16	16	16	16	16	16	
+0	16	16	16	16	16	16	16	
 16	16	16	16	16	0	16	16	
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
-Layer 1
 16	16	16	16	16	16	16	16	
-16	16	16	16	16	16	16	16	
-16	16	16	0	16	16	16	16	
-16	16	16	16	16	16	0	16	
-16	16	16	16	16	16	0	0	
-16	16	0	16	16	16	16	0	
-16	16	0	16	16	16	16	16	
-16	16	16	16	16	16	16	16	
-Layer 2
-16	16	16	16	16	16	16	16	
-16	16	16	16	16	16	16	16	
-16	16	16	16	16	16	16	16	
-16	0	16	16	0	16	16	16	
-16	16	16	16	0	16	16	16	
-16	16	16	16	0	16	16	16	
-16	16	16	16	0	16	16	16	
-16	16	16	0	16	16	16	16	
-Layer 3
-16	16	16	16	16	16	16	16	
-16	16	16	16	16	16	16	16	
-16	16	16	16	16	16	16	16	
-16	16	0	16	16	16	16	16	
-0	16	16	16	16	16	16	16	
-16	16	16	16	16	16	16	16	
-16	16	16	16	0	16	16	16	
-16	16	0	16	0	16	16	16	
 
 Directions 1
 Layer 0
-16	0	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
-16	16	16	16	16	0	0	16	
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
-16	16	16	16	16	0	0	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	0	0	16	16	
 Layer 1
 16	16	16	16	16	16	16	16	
-16	16	16	0	0	0	0	16	
-16	16	16	16	16	16	16	16	
-16	16	16	16	16	16	16	16	
+16	16	16	16	0	0	16	16	
+0	16	16	16	16	16	16	16	
 16	16	0	0	16	16	16	16	
 16	16	16	16	16	16	16	16	
-16	16	16	16	16	16	16	16	
-16	0	16	16	16	16	16	16	
+0	0	16	16	16	16	16	16	
+0	0	16	16	16	16	16	16	
+16	0	0	0	0	0	0	16	
 Layer 2
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
-16	16	16	0	0	0	0	16	
 16	16	16	16	16	16	16	16	
+16	16	16	16	16	0	0	16	
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
 Layer 3
-16	16	0	0	0	0	16	16	
-16	0	0	16	16	16	16	16	
-16	16	16	16	0	0	16	16	
-0	0	0	16	16	16	16	16	
-16	16	0	0	0	16	16	16	
 16	16	16	16	16	16	16	16	
-16	16	0	0	16	16	16	16	
-16	16	16	0	0	16	16	16	
+16	16	16	16	16	0	16	16	
+0	0	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	0	0	0	16	16	
+16	0	0	0	0	16	16	16	
+16	16	16	16	0	16	16	16	
+16	16	16	16	16	16	16	16	
 
 Directions 2
 Layer 0
+16	16	16	16	0	16	16	16	
+16	16	16	16	0	16	16	16	
+16	16	0	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	0	
 16	16	16	16	16	16	16	16	
-16	16	16	16	16	16	16	16	
-0	16	16	16	16	16	16	16	
-0	16	16	16	16	16	16	16	
-0	16	16	16	16	16	16	16	
-0	16	16	16	16	0	16	16	
+16	16	0	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
 Layer 1
-16	16	0	16	16	16	16	16	
-16	16	0	16	16	16	16	16	
-16	16	0	0	16	16	16	16	
-16	16	0	0	16	0	16	16	
-16	0	16	0	16	16	16	16	
-16	0	16	0	16	16	16	16	
+16	16	16	0	16	16	16	16	
+16	0	16	0	16	16	0	16	
+16	16	16	0	16	16	0	0	
+0	16	16	0	16	16	0	16	
+0	16	16	16	16	16	0	16	
+0	0	16	0	16	16	16	16	
 16	0	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
 Layer 2
 16	16	16	16	16	16	16	16	
-16	16	16	0	16	16	16	16	
-16	16	16	16	16	16	16	16	
+16	16	16	16	16	0	16	16	
 16	16	16	16	16	16	0	16	
-16	16	16	16	0	16	0	16	
-16	16	16	16	0	16	16	16	
+16	16	16	16	16	16	0	16	
 16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	0	16	16	16	16	
 16	16	16	16	16	16	16	16	
 Layer 3
 16	16	16	16	16	16	16	16	
-16	16	16	16	16	16	16	16	
-16	0	16	0	16	16	16	16	
-16	0	0	0	16	0	16	16	
-16	16	16	16	16	16	16	0	
-16	16	16	16	16	16	16	0	
-16	16	16	16	16	16	16	16	
+16	16	0	0	16	16	16	0	
+16	16	0	0	0	16	16	0	
+16	0	0	0	0	16	16	0	
+16	0	0	16	0	16	16	0	
+16	0	16	16	0	16	16	0	
+16	0	16	16	16	16	16	0	
 16	16	16	16	16	16	16	16	
 
 Directions 3
 Layer 0
+16	16	16	16	16	16	16	16	
+16	16	16	0	0	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	0	16	16	16	16	
+16	16	16	0	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	0	0	0	0	
+Layer 1
+16	16	16	0	0	0	0	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	0	0	16	0	16	0	16	
+16	16	16	16	16	16	16	16	
 16	16	16	16	0	0	0	16	
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
-16	16	16	16	16	16	16	16	
-16	16	16	16	16	16	16	16	
-16	16	16	16	16	16	16	16	
-16	16	16	16	16	16	16	16	
-16	16	16	16	16	16	16	16	
-Layer 1
-16	16	16	16	16	16	16	16	
-16	16	16	16	16	16	16	16	
-16	16	16	16	16	16	16	16	
-16	16	16	16	16	16	16	16	
-16	16	16	0	0	0	16	16	
-16	16	16	16	16	16	16	16	
-16	16	16	0	16	16	16	16	
-16	16	16	16	16	16	16	16	
 Layer 2
-16	16	16	16	16	16	16	16	
-16	16	16	16	16	16	16	16	
-16	0	0	16	16	16	16	16	
-16	16	0	16	16	16	0	0	
-16	16	16	16	16	16	16	16	
+16	16	0	16	16	16	16	16	
 16	16	16	16	16	16	0	16	
-16	16	16	0	0	16	16	16	
 16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	0	16	16	
+16	16	16	16	0	16	16	16	
+16	16	16	0	16	16	16	16	
 Layer 3
-16	16	16	0	0	0	0	16	
+16	16	16	16	0	16	16	16	
 16	16	16	16	16	16	16	16	
+16	16	0	16	16	0	16	16	
+16	16	16	16	0	0	16	16	
 16	16	0	0	0	0	16	16	
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
-16	16	16	0	0	0	0	0	
 16	16	16	16	16	16	16	0	
-16	16	16	16	16	0	0	16	
 
 Directions 4
 Layer 0
@@ -200,29 +200,29 @@ Layer 0
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
 Layer 1
-16	16	16	16	16	16	0	16	
-0	16	0	16	16	16	16	16	
-0	16	16	0	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	0	16	16	16	
 16	16	0	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
-16	16	16	16	16	16	16	16	
-16	16	16	16	16	0	16	16	
+0	16	16	0	16	16	16	16	
+16	0	16	16	16	16	16	16	
+16	16	0	16	16	0	0	16	
 16	16	16	16	16	16	16	16	
 Layer 2
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
-0	16	16	0	16	16	16	16	
+16	0	16	16	16	0	16	16	
+0	16	16	16	0	16	16	16	
+16	16	16	0	16	16	16	16	
+16	0	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
 16	16	0	16	16	16	16	16	
-16	16	16	16	16	16	16	16	
-16	16	16	16	16	16	16	16	
-16	16	16	16	16	0	16	16	
-16	16	16	16	16	16	16	16	
 Layer 3
-16	16	16	16	16	0	16	16	
+16	0	16	16	16	16	16	16	
+16	16	16	16	16	16	0	16	
 16	16	16	16	16	16	16	16	
-0	16	0	16	16	16	16	16	
-16	16	0	16	16	16	16	0	
-0	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	0	16	16	16	16	
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
@@ -231,30 +231,30 @@ Directions 5
 Layer 0
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
+16	16	16	16	0	16	16	16	
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
-16	16	16	16	16	16	16	16	
-16	16	0	16	16	16	16	16	
+16	16	16	16	0	16	16	16	
 Layer 1
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
+16	16	16	16	0	16	0	16	
 16	16	16	16	16	16	16	16	
-16	16	16	16	16	16	0	16	
 16	16	16	16	16	16	16	16	
-16	16	16	16	16	16	0	16	
 16	16	16	16	16	16	16	16	
-16	16	0	0	16	16	16	16	
+16	16	16	16	0	16	16	16	
+16	16	16	16	16	16	16	16	
 Layer 2
 16	16	16	16	16	16	16	16	
+16	16	0	16	16	16	16	0	
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
-16	16	16	16	16	16	16	0	
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
-16	16	0	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
 Layer 3
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
@@ -267,39 +267,39 @@ Layer 3
 
 Directions 6
 Layer 0
-16	16	0	16	16	16	16	16	
-16	16	0	16	16	16	16	16	
-16	16	16	0	16	16	16	16	
-16	16	16	16	0	16	16	16	
-16	16	16	16	16	16	16	0	
-16	16	16	16	16	16	0	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	0	
+16	16	0	16	16	16	0	16	
+16	16	16	16	16	16	0	16	
 Layer 1
 16	16	16	16	16	16	16	16	
-16	16	16	16	16	0	16	0	
+16	0	16	16	16	16	0	16	
+16	0	16	16	16	0	16	16	
 16	16	16	16	16	0	16	16	
-16	16	16	16	16	16	16	0	
-0	16	16	16	16	16	16	16	
-16	0	16	16	16	16	16	16	
+16	16	16	16	16	16	16	16	
+16	16	0	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
 Layer 2
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
-0	0	16	16	16	16	16	16	
-16	16	16	16	16	0	16	16	
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
+16	16	16	16	16	16	16	0	
+16	16	16	16	0	16	16	16	
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	16	16	16	
 Layer 3
-16	16	16	16	16	16	16	16	
 16	16	16	0	16	16	16	16	
+16	16	16	16	16	16	0	16	
+16	16	0	16	16	16	16	16	
+16	16	0	0	16	16	16	16	
 16	16	16	0	16	16	16	16	
 16	16	16	16	16	16	16	16	
-16	16	16	16	0	0	16	16	
-16	16	16	16	16	0	16	16	
 16	16	16	16	16	16	16	16	
 16	16	16	16	16	0	16	16	
 
@@ -312,7 +312,7 @@ Layer 0
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
-0	0	0	0	0	0	0	0	
+0	0	0	4	0	0	0	0	
 0	0	0	0	0	0	0	0	
 Layer 1
 0	0	0	0	0	0	0	0	
@@ -354,7 +354,7 @@ Layer 0
 0	0	0	0	0	0	0	0	
 Layer 1
 0	0	0	0	0	0	0	0	
-0	0	0	0	0	3	0	0	
+0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
@@ -375,7 +375,7 @@ Layer 3
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
-0	0	0	0	0	0	0	0	
+0	0	0	3	0	0	0	0	
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
@@ -395,8 +395,8 @@ Layer 1
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
-0	0	0	0	0	0	0	0	
-0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	
+3	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
 Layer 2
@@ -412,7 +412,7 @@ Layer 3
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
-0	0	0	0	0	0	0	0	
+0	0	4	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
@@ -432,7 +432,7 @@ Layer 1
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
-0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	2	0	
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
@@ -452,7 +452,7 @@ Layer 3
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
-0	0	0	0	0	3	0	1	
+0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
 
@@ -489,7 +489,7 @@ Layer 3
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
-0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
@@ -540,7 +540,7 @@ Layer 0
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
-0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
 Layer 1
 0	0	0	0	0	0	0	0	
@@ -563,9 +563,9 @@ Layer 2
 Layer 3
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
-0	0	0	3	0	0	0	0	
 0	0	0	0	0	0	0	0	
-0	0	0	0	6	0	0	0	
+0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
 0	0	0	0	0	0	0	0	
@@ -577,151 +577,151 @@ na	na	na	na	na	na	na	na
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	na	na	45	na	na	
-na	na	na	na	na	na	na	na	
+na	169	na	na	na	na	na	na	
+na	169	na	na	na	na	na	na	
+na	na	na	51	na	117	na	na	
 na	na	na	na	na	na	na	na	
 Layer 1
 na	na	na	na	na	na	na	na	
+na	na	74	na	na	na	na	na	
+na	145	na	na	na	na	na	na	
+na	na	na	247	na	na	na	na	
+na	na	186	na	na	na	na	na	
+na	na	186	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	19	na	na	na	na	
-na	na	na	na	na	na	102	na	
-na	na	na	na	na	na	102	175	
-na	na	58	na	na	na	na	175	
-na	na	58	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 Layer 2
 na	na	na	na	na	na	na	na	
+na	na	186	na	na	na	na	na	
+na	na	186	na	na	na	na	na	
+na	na	186	na	na	na	na	na	
+na	na	na	na	247	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	229	na	na	116	na	na	na	
-na	na	na	na	116	na	na	na	
-na	na	na	na	116	na	na	na	
-na	na	na	na	116	na	na	na	
-na	na	na	123	na	na	na	na	
+na	na	na	na	na	na	na	na	
 Layer 3
 na	na	na	na	na	na	na	na	
+na	213	na	na	52	na	na	na	
+na	213	na	na	na	na	na	na	
+24	na	na	na	na	na	na	na	
+na	na	na	na	na	61	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	237	na	na	na	na	na	
-112	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	255	na	na	na	
-na	na	186	na	255	na	na	na	
 
 Directions 1
 Layer 0
-na	153	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	45	45	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	149	149	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	211	211	na	na	
 Layer 1
 na	na	na	na	na	na	na	na	
-na	na	na	19	19	216	216	na	
+na	na	na	na	219	219	na	na	
+32	na	na	na	na	na	na	na	
+na	na	186	186	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	58	58	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	153	na	na	na	na	na	na	
+200	200	na	na	na	na	na	na	
+208	208	na	na	na	na	na	na	
+na	65	65	89	89	89	89	na	
 Layer 2
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	18	18	18	18	na	
 na	na	na	na	na	na	na	na	
+na	na	na	na	na	3	3	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 Layer 3
-na	na	218	218	218	218	na	na	
-na	88	88	na	na	na	na	na	
-na	na	na	na	212	212	na	na	
-112	112	112	na	na	na	na	na	
-na	na	90	90	90	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	186	57	na	na	na	na	
-na	na	na	88	88	na	na	na	
+na	na	na	na	na	115	na	na	
+24	24	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	91	91	91	na	na	
+na	32	32	32	32	na	na	na	
+na	na	na	na	4	na	na	na	
+na	na	na	na	na	na	na	na	
 
 Directions 2
 Layer 0
+na	na	na	na	4	na	na	na	
+na	na	na	na	4	na	na	na	
+na	na	82	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	39	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-208	na	na	na	na	na	na	na	
-208	na	na	na	na	na	na	na	
-208	na	na	na	na	na	na	na	
-208	na	na	na	na	149	na	na	
+na	na	114	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 Layer 1
-na	na	66	na	na	na	na	na	
-na	na	66	na	na	na	na	na	
-na	na	66	131	na	na	na	na	
-na	na	66	131	na	69	na	na	
-na	153	na	131	na	na	na	na	
-na	153	na	131	na	na	na	na	
-na	153	na	na	na	na	na	na	
+na	na	na	131	na	na	na	na	
+na	73	na	131	na	na	79	na	
+na	na	na	131	na	na	79	87	
+91	na	na	131	na	na	79	na	
+200	na	na	na	na	na	79	na	
+208	65	na	110	na	na	na	na	
+na	65	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 Layer 2
 na	na	na	na	na	na	na	na	
-na	na	na	139	na	na	na	na	
+na	na	na	na	na	143	na	na	
+na	na	na	na	na	na	86	na	
+na	na	na	na	na	na	86	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	94	na	
-na	na	na	na	164	na	94	na	
-na	na	na	na	164	na	na	na	
 na	na	na	na	na	na	na	na	
+na	na	na	164	na	na	na	na	
 na	na	na	na	na	na	na	na	
 Layer 3
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	209	na	211	na	na	na	na	
-na	209	90	211	na	213	na	na	
-na	na	na	na	na	na	na	39	
-na	na	na	na	na	na	na	39	
-na	na	na	na	na	na	na	na	
+na	na	138	195	na	na	na	143	
+na	na	138	195	213	na	na	143	
+na	209	18	195	4	na	na	143	
+na	209	18	na	4	na	na	103	
+na	209	na	na	4	na	na	103	
+na	209	na	na	na	na	na	103	
 na	na	na	na	na	na	na	na	
 
 Directions 3
 Layer 0
-na	na	na	na	198	198	198	na	
+na	na	na	na	na	na	na	na	
+na	na	na	76	76	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
+na	na	na	212	na	na	na	na	
+na	na	na	51	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
+na	na	na	na	39	39	39	39	
 Layer 1
+na	na	na	22	22	22	22	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
+na	91	91	na	247	na	143	na	
 na	na	na	na	na	na	na	na	
+na	na	na	na	110	110	110	na	
 na	na	na	na	na	na	na	na	
-na	na	na	69	69	69	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	171	na	na	na	na	
 na	na	na	na	na	na	na	na	
 Layer 2
+na	na	186	na	na	na	na	na	
+na	na	na	na	na	na	206	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	229	237	na	na	na	na	na	
-na	na	229	na	na	na	223	223	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	94	na	
-na	na	na	164	164	na	na	na	
-na	na	na	na	na	na	na	na	
+na	na	na	na	na	38	na	na	
+na	na	na	na	164	na	na	na	
+na	na	na	164	na	na	na	na	
 Layer 3
-na	na	na	198	198	198	198	na	
+na	na	na	na	52	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	127	127	127	127	na	na	
+na	na	213	na	na	213	na	na	
+na	na	na	na	61	61	na	na	
+na	na	231	231	231	231	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	183	183	183	71	71	
-na	na	na	na	na	na	na	39	
-na	na	na	na	na	255	255	na	
+na	na	na	na	na	na	na	103	
 
 Directions 4
 Layer 0
@@ -734,29 +734,29 @@ na	na	na	na	na	na	na	na
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 Layer 1
-na	na	na	na	na	na	198	na	
-72	na	74	na	na	na	na	na	
-208	na	na	183	na	na	na	na	
-na	na	218	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
+na	na	na	na	76	na	na	na	
+na	na	82	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	181	na	na	
+91	na	na	212	na	na	na	na	
+na	169	na	na	na	na	na	na	
+na	na	114	na	na	117	111	na	
 na	na	na	na	na	na	na	na	
 Layer 2
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-208	na	na	183	na	na	na	na	
-na	na	218	na	na	na	na	na	
+na	145	na	na	na	143	na	na	
+152	na	na	na	247	na	na	na	
+na	na	na	212	na	na	na	na	
+na	169	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	na	na	181	na	na	
-na	na	na	na	na	na	na	na	
+na	na	164	na	na	na	na	na	
 Layer 3
-na	na	na	na	na	197	na	na	
+na	213	na	na	na	na	na	na	
+na	na	na	na	na	na	206	na	
 na	na	na	na	na	na	na	na	
-208	na	237	na	na	na	na	na	
-na	na	218	na	na	na	na	223	
-224	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	212	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
@@ -765,30 +765,30 @@ Directions 5
 Layer 0
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
+na	na	na	na	20	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	58	na	na	na	na	na	
+na	na	na	na	60	na	na	na	
 Layer 1
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
+na	na	na	na	20	na	86	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	94	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	110	na	
 na	na	na	na	na	na	na	na	
-na	na	58	123	na	na	na	na	
+na	na	na	na	116	na	na	na	
+na	na	na	na	na	na	na	na	
 Layer 2
 na	na	na	na	na	na	na	na	
+na	na	138	na	na	na	na	143	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	39	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	186	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
 Layer 3
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
@@ -801,41 +801,41 @@ na	na	na	na	na	na	na	na
 
 Directions 6
 Layer 0
-na	na	153	na	na	na	na	na	
-na	na	74	na	na	na	na	na	
-na	na	na	183	na	na	na	na	
-na	na	na	na	150	na	na	na	
-na	na	na	na	na	na	na	108	
-na	na	na	na	na	na	32	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	149	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	39	
+na	na	148	na	na	na	111	na	
+na	na	na	na	na	na	211	na	
 Layer 1
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	19	na	216	
-na	na	na	na	na	17	na	na	
-na	na	na	na	na	na	na	175	
-8	na	na	na	na	na	na	na	
-na	150	na	na	na	na	na	na	
+na	145	na	na	na	na	219	na	
+na	32	na	na	na	143	na	na	
+na	na	na	na	na	143	na	na	
+na	na	na	na	na	na	na	na	
+na	na	200	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 Layer 2
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-229	237	na	na	na	na	na	na	
-na	na	na	na	na	34	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	3	
+na	na	na	na	38	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 Layer 3
+na	na	na	52	na	na	na	na	
+na	na	na	na	na	na	115	na	
+na	na	24	na	na	na	na	na	
+na	na	138	61	na	na	na	na	
+na	na	na	195	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	88	na	na	na	na	
-na	na	na	38	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	225	213	na	na	
-na	na	na	na	na	71	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	na	na	88	na	na	
+na	na	na	na	na	54	na	na	
 
 src_id
 Directions 0
@@ -844,151 +844,151 @@ na	na	na	na	na	na	na	na
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	na	na	39	na	na	
-na	na	na	na	na	na	na	na	
+na	22	na	na	na	na	na	na	
+na	22	na	na	na	na	na	na	
+na	na	na	32	na	39	na	na	
 na	na	na	na	na	na	na	na	
 Layer 1
 na	na	na	na	na	na	na	na	
+na	na	71	na	na	na	na	na	
+na	73	na	na	na	na	na	na	
+na	na	na	83	na	na	na	na	
+na	na	92	na	na	na	na	na	
+na	na	92	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	77	na	na	na	na	
-na	na	na	na	na	na	10	na	
-na	na	na	na	na	na	10	95	
-na	na	102	na	na	na	na	95	
-na	na	102	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 Layer 2
 na	na	na	na	na	na	na	na	
+na	na	128	na	na	na	na	na	
+na	na	128	na	na	na	na	na	
+na	na	128	na	na	na	na	na	
+na	na	na	na	83	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	144	na	na	130	na	na	na	
-na	na	na	na	130	na	na	na	
-na	na	na	na	130	na	na	na	
-na	na	na	na	130	na	na	na	
-na	na	na	141	na	na	na	na	
+na	na	na	na	na	na	na	na	
 Layer 3
 na	na	na	na	na	na	na	na	
+na	129	na	na	195	na	na	na	
+na	129	na	na	na	na	na	na	
+210	na	na	na	na	na	na	na	
+na	na	na	na	na	219	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	145	na	na	na	na	na	
-222	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	26	na	na	na	
-na	na	245	na	26	na	na	na	
 
 Directions 1
 Layer 0
-na	2	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	39	39	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	63	63	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	62	62	na	na	
 Layer 1
 na	na	na	na	na	na	na	na	
-na	na	na	77	77	79	79	na	
+na	na	na	na	78	78	na	na	
+81	na	na	na	na	na	na	na	
+na	na	92	92	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	102	102	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	122	na	na	na	na	na	na	
+106	106	na	na	na	na	na	na	
+119	119	na	na	na	na	na	na	
+na	126	126	127	127	127	127	na	
 Layer 2
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	159	159	159	159	na	
 na	na	na	na	na	na	na	na	
+na	na	na	na	na	167	167	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 Layer 3
-na	na	198	198	198	198	na	na	
-na	203	203	na	na	na	na	na	
-na	na	na	na	214	214	na	na	
-222	222	222	na	na	na	na	na	
-na	na	231	231	231	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	245	246	na	na	na	na	
-na	na	na	253	253	na	na	na	
+na	na	na	na	na	206	na	na	
+210	210	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	231	231	231	na	na	
+na	239	239	239	239	na	na	na	
+na	na	na	na	247	na	na	na	
+na	na	na	na	na	na	na	na	
 
 Directions 2
 Layer 0
+na	na	na	na	23	na	na	na	
+na	na	na	na	23	na	na	na	
+na	na	63	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	47	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-58	na	na	na	na	na	na	na	
-58	na	na	na	na	na	na	na	
-58	na	na	na	na	na	na	na	
-58	na	na	na	na	63	na	na	
+na	na	58	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 Layer 1
-na	na	113	na	na	na	na	na	
-na	na	113	na	na	na	na	na	
-na	na	113	119	na	na	na	na	
-na	na	113	119	na	97	na	na	
-na	122	na	119	na	na	na	na	
-na	122	na	119	na	na	na	na	
-na	122	na	na	na	na	na	na	
+na	na	na	112	na	na	na	na	
+na	95	na	112	na	na	124	na	
+na	na	na	112	na	na	124	109	
+40	na	na	112	na	na	124	na	
+106	na	na	na	na	na	124	na	
+119	126	na	122	na	na	na	na	
+na	126	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 Layer 2
 na	na	na	na	na	na	na	na	
-na	na	na	105	na	na	na	na	
+na	na	na	na	na	85	na	na	
+na	na	na	na	na	na	187	na	
+na	na	na	na	na	na	187	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	171	na	
-na	na	na	na	56	na	171	na	
-na	na	na	na	56	na	na	na	
 na	na	na	na	na	na	na	na	
+na	na	na	122	na	na	na	na	
 na	na	na	na	na	na	na	na	
 Layer 3
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	237	na	49	na	na	na	na	
-na	237	231	49	na	229	na	na	
-na	na	na	na	na	na	na	240	
-na	na	na	na	na	na	na	240	
-na	na	na	na	na	na	na	na	
+na	na	218	227	na	na	na	235	
+na	na	218	227	122	na	na	235	
+na	254	248	227	247	na	na	235	
+na	254	248	na	247	na	na	251	
+na	254	na	na	247	na	na	251	
+na	254	na	na	na	na	na	251	
 na	na	na	na	na	na	na	na	
 
 Directions 3
 Layer 0
-na	na	na	na	0	0	0	na	
+na	na	na	na	na	na	na	na	
+na	na	na	10	10	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
+na	na	na	34	na	na	na	na	
+na	na	na	32	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
+na	na	na	na	59	59	59	59	
 Layer 1
+na	na	na	66	66	66	66	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
+na	40	40	na	83	na	93	na	
 na	na	na	na	na	na	na	na	
+na	na	na	na	106	106	106	na	
 na	na	na	na	na	na	na	na	
-na	na	na	97	97	97	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	114	na	na	na	na	
 na	na	na	na	na	na	na	na	
 Layer 2
+na	na	128	na	na	na	na	na	
+na	na	na	na	na	na	27	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	144	145	na	na	na	na	na	
-na	na	144	na	na	na	157	157	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	171	na	
-na	na	na	56	56	na	na	na	
-na	na	na	na	na	na	na	na	
+na	na	na	na	na	172	na	na	
+na	na	na	na	122	na	na	na	
+na	na	na	122	na	na	na	na	
 Layer 3
-na	na	na	193	193	193	193	na	
+na	na	na	na	195	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	209	209	209	209	na	na	
+na	na	129	na	na	122	na	na	
+na	na	na	na	219	219	na	na	
+na	na	232	232	232	232	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	234	234	234	237	237	
-na	na	na	na	na	na	na	240	
-na	na	na	na	na	26	26	na	
+na	na	na	na	na	na	na	251	
 
 Directions 4
 Layer 0
@@ -1001,29 +1001,29 @@ na	na	na	na	na	na	na	na
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 Layer 1
-na	na	na	na	na	na	0	na	
-22	na	10	na	na	na	na	na	
-40	na	na	19	na	na	na	na	
-na	na	4	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
+na	na	na	na	10	na	na	na	
+na	na	63	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	47	na	na	
+40	na	na	34	na	na	na	na	
+na	22	na	na	na	na	na	na	
+na	na	58	na	na	39	54	na	
 na	na	na	na	na	na	na	na	
 Layer 2
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-40	na	na	19	na	na	na	na	
-na	na	4	na	na	na	na	na	
+na	73	na	na	na	85	na	na	
+34	na	na	na	83	na	na	na	
+na	na	na	34	na	na	na	na	
+na	22	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	na	na	47	na	na	
-na	na	na	na	na	na	na	na	
+na	na	122	na	na	na	na	na	
 Layer 3
-na	na	na	na	na	16	na	na	
+na	129	na	na	na	na	na	na	
+na	na	na	na	na	na	27	na	
 na	na	na	na	na	na	na	na	
-40	na	145	na	na	na	na	na	
-na	na	4	na	na	na	na	157	
-67	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	34	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
@@ -1032,30 +1032,30 @@ Directions 5
 Layer 0
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
+na	na	na	na	140	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	202	na	na	na	na	na	
+na	na	na	na	151	na	na	na	
 Layer 1
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
+na	na	na	na	140	na	187	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	171	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	214	na	
 na	na	na	na	na	na	na	na	
-na	na	202	141	na	na	na	na	
+na	na	na	na	148	na	na	na	
+na	na	na	na	na	na	na	na	
 Layer 2
 na	na	na	na	na	na	na	na	
+na	na	218	na	na	na	na	235	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	240	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	245	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
 Layer 3
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
@@ -1068,39 +1068,39 @@ na	na	na	na	na	na	na	na
 
 Directions 6
 Layer 0
-na	na	2	na	na	na	na	na	
-na	na	10	na	na	na	na	na	
-na	na	na	19	na	na	na	na	
-na	na	na	na	28	na	na	na	
-na	na	na	na	na	na	na	39	
-na	na	na	na	na	na	46	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	63	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	47	
+na	na	50	na	na	na	54	na	
+na	na	na	na	na	na	62	na	
 Layer 1
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	77	na	79	
-na	na	na	na	na	85	na	na	
-na	na	na	na	na	na	na	95	
-96	na	na	na	na	na	na	na	
-na	105	na	na	na	na	na	na	
+na	73	na	na	na	na	78	na	
+na	81	na	na	na	85	na	na	
+na	na	na	na	na	93	na	na	
+na	na	na	na	na	na	na	na	
+na	na	106	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 Layer 2
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-144	145	na	na	na	na	na	na	
-na	na	na	na	na	157	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	167	
+na	na	na	na	172	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 Layer 3
+na	na	na	195	na	na	na	na	
+na	na	na	na	na	na	206	na	
+na	na	210	na	na	na	na	na	
+na	na	218	219	na	na	na	na	
+na	na	na	227	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	203	na	na	na	na	
-na	na	na	211	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	na	228	229	na	na	
-na	na	na	na	na	237	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	253	na	na	
 
@@ -1111,151 +1111,151 @@ na	na	na	na	na	na	na	na
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
+na	1	na	na	na	na	na	na	
+na	1	na	na	na	na	na	na	
+na	na	na	1	na	1	na	na	
 na	na	na	na	na	na	na	na	
+Layer 1
+na	na	na	na	na	na	na	na	
+na	na	1	na	na	na	na	na	
+na	1	na	na	na	na	na	na	
+na	na	na	1	na	na	na	na	
+na	na	1	na	na	na	na	na	
+na	na	1	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 2
+na	na	na	na	na	na	na	na	
+na	na	1	na	na	na	na	na	
+na	na	1	na	na	na	na	na	
+na	na	1	na	na	na	na	na	
+na	na	na	na	1	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+Layer 3
+na	na	na	na	na	na	na	na	
+na	1	na	na	1	na	na	na	
+na	1	na	na	na	na	na	na	
+1	na	na	na	na	na	na	na	
 na	na	na	na	na	1	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-Layer 1
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	1	na	na	na	na	
-na	na	na	na	na	na	1	na	
-na	na	na	na	na	na	1	1	
-na	na	1	na	na	na	na	1	
-na	na	1	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-Layer 2
-na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	1	na	na	1	na	na	na	
-na	na	na	na	1	na	na	na	
-na	na	na	na	1	na	na	na	
-na	na	na	na	1	na	na	na	
-na	na	na	1	na	na	na	na	
-Layer 3
-na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	1	na	na	na	na	na	
-1	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	na	1	na	na	na	
-na	na	1	na	1	na	na	na	
 
 Directions 1
 Layer 0
-na	1	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	1	1	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	1	1	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	1	1	na	na	
 Layer 1
 na	na	na	na	na	na	na	na	
-na	na	na	1	1	1	1	na	
-na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
+na	na	na	na	1	1	na	na	
+1	na	na	na	na	na	na	na	
 na	na	1	1	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	1	na	na	na	na	na	na	
+1	1	na	na	na	na	na	na	
+1	1	na	na	na	na	na	na	
+na	1	1	1	1	1	1	na	
 Layer 2
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	1	1	1	1	na	
 na	na	na	na	na	na	na	na	
+na	na	na	na	na	1	1	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 Layer 3
-na	na	1	1	1	1	na	na	
-na	1	1	na	na	na	na	na	
-na	na	na	na	1	1	na	na	
-1	1	1	na	na	na	na	na	
-na	na	1	1	1	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	1	1	na	na	na	na	
-na	na	na	1	1	na	na	na	
+na	na	na	na	na	1	na	na	
+1	1	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	1	1	1	na	na	
+na	1	1	1	1	na	na	na	
+na	na	na	na	1	na	na	na	
+na	na	na	na	na	na	na	na	
 
 Directions 2
 Layer 0
+na	na	na	na	1	na	na	na	
+na	na	na	na	1	na	na	na	
+na	na	1	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	1	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-1	na	na	na	na	na	na	na	
-1	na	na	na	na	na	na	na	
-1	na	na	na	na	na	na	na	
-1	na	na	na	na	1	na	na	
+na	na	1	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 Layer 1
-na	na	1	na	na	na	na	na	
-na	na	1	na	na	na	na	na	
-na	na	1	1	na	na	na	na	
-na	na	1	1	na	1	na	na	
-na	1	na	1	na	na	na	na	
-na	1	na	1	na	na	na	na	
+na	na	na	1	na	na	na	na	
+na	1	na	1	na	na	1	na	
+na	na	na	1	na	na	1	1	
+1	na	na	1	na	na	1	na	
+1	na	na	na	na	na	1	na	
+1	1	na	1	na	na	na	na	
 na	1	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 Layer 2
 na	na	na	na	na	na	na	na	
-na	na	na	1	na	na	na	na	
-na	na	na	na	na	na	na	na	
+na	na	na	na	na	1	na	na	
 na	na	na	na	na	na	1	na	
-na	na	na	na	1	na	1	na	
-na	na	na	na	1	na	na	na	
+na	na	na	na	na	na	1	na	
 na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	1	na	na	na	na	
 na	na	na	na	na	na	na	na	
 Layer 3
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	1	na	1	na	na	na	na	
-na	1	1	1	na	1	na	na	
-na	na	na	na	na	na	na	1	
-na	na	na	na	na	na	na	1	
-na	na	na	na	na	na	na	na	
+na	na	1	1	na	na	na	1	
+na	na	1	1	1	na	na	1	
+na	1	1	1	1	na	na	1	
+na	1	1	na	1	na	na	1	
+na	1	na	na	1	na	na	1	
+na	1	na	na	na	na	na	1	
 na	na	na	na	na	na	na	na	
 
 Directions 3
 Layer 0
+na	na	na	na	na	na	na	na	
+na	na	na	1	1	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	1	na	na	na	na	
+na	na	na	1	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	1	1	1	1	
+Layer 1
+na	na	na	1	1	1	1	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	1	1	na	1	na	1	na	
+na	na	na	na	na	na	na	na	
 na	na	na	na	1	1	1	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-Layer 1
-na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	1	1	1	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	1	na	na	na	na	
-na	na	na	na	na	na	na	na	
 Layer 2
-na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	1	1	na	na	na	na	na	
-na	na	1	na	na	na	1	1	
-na	na	na	na	na	na	na	na	
+na	na	1	na	na	na	na	na	
 na	na	na	na	na	na	1	na	
-na	na	na	1	1	na	na	na	
 na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	1	na	na	
+na	na	na	na	1	na	na	na	
+na	na	na	1	na	na	na	na	
 Layer 3
-na	na	na	1	1	1	1	na	
+na	na	na	na	1	na	na	na	
 na	na	na	na	na	na	na	na	
+na	na	1	na	na	1	na	na	
+na	na	na	na	1	1	na	na	
 na	na	1	1	1	1	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	1	1	1	1	1	
 na	na	na	na	na	na	na	1	
-na	na	na	na	na	1	1	na	
 
 Directions 4
 Layer 0
@@ -1268,29 +1268,29 @@ na	na	na	na	na	na	na	na
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 Layer 1
-na	na	na	na	na	na	1	na	
-1	na	1	na	na	na	na	na	
-1	na	na	1	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	1	na	na	na	
 na	na	1	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	na	na	1	na	na	
+1	na	na	1	na	na	na	na	
+na	1	na	na	na	na	na	na	
+na	na	1	na	na	1	1	na	
 na	na	na	na	na	na	na	na	
 Layer 2
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-1	na	na	1	na	na	na	na	
+na	1	na	na	na	1	na	na	
+1	na	na	na	1	na	na	na	
+na	na	na	1	na	na	na	na	
+na	1	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
 na	na	1	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	na	na	na	1	na	na	
-na	na	na	na	na	na	na	na	
 Layer 3
-na	na	na	na	na	1	na	na	
+na	1	na	na	na	na	na	na	
+na	na	na	na	na	na	1	na	
 na	na	na	na	na	na	na	na	
-1	na	1	na	na	na	na	na	
-na	na	1	na	na	na	na	1	
-1	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	1	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
@@ -1299,30 +1299,30 @@ Directions 5
 Layer 0
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
+na	na	na	na	1	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	na	
-na	na	1	na	na	na	na	na	
+na	na	na	na	1	na	na	na	
 Layer 1
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
+na	na	na	na	1	na	1	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	1	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	1	na	
 na	na	na	na	na	na	na	na	
-na	na	1	1	na	na	na	na	
+na	na	na	na	1	na	na	na	
+na	na	na	na	na	na	na	na	
 Layer 2
 na	na	na	na	na	na	na	na	
+na	na	1	na	na	na	na	1	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	na	na	1	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	1	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
 Layer 3
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
@@ -1335,39 +1335,39 @@ na	na	na	na	na	na	na	na
 
 Directions 6
 Layer 0
-na	na	1	na	na	na	na	na	
-na	na	1	na	na	na	na	na	
-na	na	na	1	na	na	na	na	
-na	na	na	na	1	na	na	na	
-na	na	na	na	na	na	na	1	
-na	na	na	na	na	na	1	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	1	
+na	na	1	na	na	na	1	na	
+na	na	na	na	na	na	1	na	
 Layer 1
 na	na	na	na	na	na	na	na	
-na	na	na	na	na	1	na	1	
+na	1	na	na	na	na	1	na	
+na	1	na	na	na	1	na	na	
 na	na	na	na	na	1	na	na	
-na	na	na	na	na	na	na	1	
-1	na	na	na	na	na	na	na	
-na	1	na	na	na	na	na	na	
+na	na	na	na	na	na	na	na	
+na	na	1	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 Layer 2
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
-1	1	na	na	na	na	na	na	
-na	na	na	na	na	1	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
+na	na	na	na	na	na	na	1	
+na	na	na	na	1	na	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	na	na	na	
 Layer 3
-na	na	na	na	na	na	na	na	
 na	na	na	1	na	na	na	na	
+na	na	na	na	na	na	1	na	
+na	na	1	na	na	na	na	na	
+na	na	1	1	na	na	na	na	
 na	na	na	1	na	na	na	na	
 na	na	na	na	na	na	na	na	
-na	na	na	na	1	1	na	na	
-na	na	na	na	na	1	na	na	
 na	na	na	na	na	na	na	na	
 na	na	na	na	na	1	na	na	
 
@@ -1378,37 +1378,37 @@ Layer 0
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	-2	-2	6	-2	-2	
--2	-2	-2	-2	-2	-2	-2	-2	
+-2	2	-2	-2	-2	-2	-2	-2	
+-2	5	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	5	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 Layer 1
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	4	-2	-2	-2	-2	
--2	-2	-2	-2	-2	-2	2	-2	
--2	-2	-2	-2	-2	-2	6	2	
+-2	-2	6	-2	-2	-2	-2	-2	
+-2	5	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	1	-2	-2	-2	-2	
 -2	-2	2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 Layer 2
 -2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	2	-2	-2	-2	-2	-2	
+-2	-2	2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	1	-2	-2	2	-2	-2	-2	
--2	-2	-2	-2	2	-2	-2	-2	
--2	-2	-2	-2	2	-2	-2	-2	
--2	-2	-2	-2	4	-2	-2	-2	
--2	-2	-2	4	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
 Layer 3
 -2	-2	-2	-2	-2	-2	-2	-2	
+-2	2	-2	-2	2	-2	-2	-2	
+-2	1	-2	-2	-2	-2	-2	-2	
+4	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	-2	2	-2	-2	-2	
--2	-2	4	-2	1	-2	-2	-2	
 
 Directions 1
 Layer 0
@@ -1416,113 +1416,113 @@ Layer 0
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	-2	-2	2	3	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	-2	-2	0	3	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	3	3	-2	-2	
 Layer 1
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	2	3	-2	3	-2	
--2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	3	-2	-2	
+2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	2	3	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	-2	-2	-2	-2	-2	
--2	0	-2	-2	-2	-2	-2	-2	
+0	3	-2	-2	-2	-2	-2	-2	
+0	3	-2	-2	-2	-2	-2	-2	
+-2	0	3	3	3	3	3	-2	
 Layer 2
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	3	3	3	3	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	3	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 Layer 3
--2	-2	-2	3	3	3	-2	-2	
--2	3	3	-2	-2	-2	-2	-2	
--2	-2	-2	-2	6	3	-2	-2	
-2	3	3	-2	-2	-2	-2	-2	
--2	-2	0	3	3	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	2	3	-2	-2	-2	-2	
--2	-2	-2	3	3	-2	-2	-2	
+-2	-2	-2	-2	-2	3	-2	-2	
+2	3	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	3	3	-2	-2	
+-2	-2	3	3	3	-2	-2	-2	
+-2	-2	-2	-2	0	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
 
 Directions 2
 Layer 0
+-2	-2	-2	-2	6	-2	-2	-2	
+-2	-2	-2	-2	0	-2	-2	-2	
+-2	-2	5	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	6	
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	-2	-2	-2	-2	-2	
-0	-2	-2	-2	-2	-2	-2	-2	
-0	-2	-2	-2	-2	-2	-2	-2	
-0	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	5	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 Layer 1
--2	-2	6	-2	-2	-2	-2	-2	
--2	-2	0	-2	-2	-2	-2	-2	
--2	-2	0	0	-2	-2	-2	-2	
--2	-2	0	0	-2	0	-2	-2	
--2	0	-2	0	-2	-2	-2	-2	
--2	0	-2	0	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	6	-2	0	-2	-2	-2	-2	
+-2	-2	-2	0	-2	-2	0	6	
+1	-2	-2	0	-2	-2	0	-2	
+-2	-2	-2	-2	-2	-2	0	-2	
+-2	0	-2	1	-2	-2	-2	-2	
 -2	0	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 Layer 2
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	6	-2	-2	-2	-2	
--2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	1	-2	-2	
 -2	-2	-2	-2	-2	-2	4	-2	
--2	-2	-2	-2	6	-2	0	-2	
--2	-2	-2	-2	0	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	0	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	1	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 Layer 3
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	-2	-2	-2	-2	-2	
--2	6	-2	6	-2	-2	-2	-2	
--2	0	4	0	-2	-2	-2	-2	
--2	-2	-2	-2	-2	-2	-2	4	
--2	-2	-2	-2	-2	-2	-2	0	
--2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	4	0	-2	-2	-2	4	
+-2	-2	0	0	1	-2	-2	0	
+-2	-2	-2	0	-2	-2	-2	0	
+-2	0	0	-2	0	-2	-2	4	
+-2	0	-2	-2	0	-2	-2	0	
+-2	0	-2	-2	-2	-2	-2	0	
 -2	-2	-2	-2	-2	-2	-2	-2	
 
 Directions 3
 Layer 0
--2	-2	-2	-2	1	1	5	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	1	5	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	5	-2	-2	-2	-2	
+-2	-2	-2	2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	1	1	1	0	
 Layer 1
+-2	-2	-2	1	1	1	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
+-2	1	-2	-2	5	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	1	1	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	1	1	0	-2	-2	
--2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	0	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 Layer 2
+-2	-2	2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	5	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	2	5	-2	-2	-2	-2	-2	
--2	-2	-2	-2	-2	-2	1	5	
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	-2	-2	-2	0	-2	
--2	-2	-2	1	0	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	0	-2	-2	-2	-2	
 Layer 3
--2	-2	-2	1	1	1	6	-2	
+-2	-2	-2	-2	2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	1	1	1	1	-2	-2	
+-2	-2	1	-2	-2	6	-2	-2	
+-2	-2	-2	-2	1	2	-2	-2	
+-2	-2	1	1	1	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	1	1	-2	1	-2	
 -2	-2	-2	-2	-2	-2	-2	0	
--2	-2	-2	-2	-2	1	1	-2	
 
 Directions 4
 Layer 0
@@ -1535,29 +1535,29 @@ Layer 0
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 Layer 1
--2	-2	-2	-2	-2	-2	5	-2	
-6	-2	6	-2	-2	-2	-2	-2	
-5	-2	-2	5	-2	-2	-2	-2	
--2	-2	5	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	6	-2	-2	-2	
+-2	-2	6	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	-2	-2	5	-2	-2	
+0	-2	-2	5	-2	-2	-2	-2	
+-2	5	-2	-2	-2	-2	-2	-2	
+-2	-2	6	-2	-2	6	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 Layer 2
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
-5	-2	-2	1	-2	-2	-2	-2	
--2	-2	5	-2	-2	-2	-2	-2	
+-2	6	-2	-2	-2	0	-2	-2	
+6	-2	-2	-2	2	-2	-2	-2	
+-2	-2	-2	5	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	-2	-2	6	-2	-2	
--2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	1	-2	-2	-2	-2	-2	
 Layer 3
--2	-2	-2	-2	-2	6	-2	-2	
+-2	2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	6	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
-6	-2	2	-2	-2	-2	-2	-2	
--2	-2	6	-2	-2	-2	-2	6	
-6	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
@@ -1566,27 +1566,27 @@ Directions 5
 Layer 0
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	6	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	6	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	6	-2	-2	-2	
 Layer 1
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	4	-2	6	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	-2	-2	-2	6	-2	
+-2	-2	-2	-2	6	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	4	6	-2	-2	-2	-2	
 Layer 2
 -2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	6	-2	-2	-2	-2	6	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	-2	-2	-2	-2	4	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
@@ -1602,41 +1602,41 @@ Layer 3
 
 Directions 6
 Layer 0
--2	-2	3	-2	-2	-2	-2	-2	
--2	-2	5	-2	-2	-2	-2	-2	
--2	-2	-2	5	-2	-2	-2	-2	
--2	-2	-2	-2	1	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	-2	-2	-2	-2	3	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	0	
+-2	-2	-2	-2	-2	-2	5	-2	
+-2	-2	-2	-2	-2	-2	3	-2	
 Layer 1
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	-2	-2	3	-2	3	
+-2	2	-2	-2	-2	-2	3	-2	
+-2	3	-2	-2	-2	5	-2	-2	
+-2	-2	-2	-2	-2	1	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	-2	-2	-2	-2	2	
--2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	3	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 Layer 2
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
-1	1	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	-2	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	-2	3	
+-2	-2	-2	-2	1	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 Layer 3
+-2	-2	-2	1	-2	-2	-2	-2	
+-2	-2	-2	-2	-2	-2	3	-2	
+-2	-2	3	-2	-2	-2	-2	-2	
+-2	-2	0	1	-2	-2	-2	-2	
+-2	-2	-2	0	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	3	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
 -2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	-2	-2	0	-2	-2	
--2	-2	-2	-2	-2	1	-2	-2	
--2	-2	-2	-2	-2	-2	-2	-2	
--2	-2	-2	-2	-2	3	-2	-2	
 
 on_off
 Directions 0
@@ -1791,12 +1791,12 @@ Layer 3
 1	0	0	0	0	0	0	0	
 1	0	0	0	0	0	0	0	
 
-transmit:	25683
+transmit:	25783
 not_transmit:	0
-adaptive_transmit:	205023
+adaptive_transmit:	205823
 DOR_transmit:	0
 DW_transmit:	0
 mid_adaptive_transmit:	0
 mid_DOR_transmit:	0
 mid_DW_transmit:	0
-packet_in_buffer	80
+packet_in_buffer	86

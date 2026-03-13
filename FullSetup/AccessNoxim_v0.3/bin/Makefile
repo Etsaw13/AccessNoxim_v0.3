@@ -3,7 +3,8 @@ CC     = g++
 OPT    = -O3
 DEBUG  = -g
 OTHER  = # -Wall -Wno-deprecated
-CFLAGS = $(OPT)
+# CFLAGS = $(OPT)
+CFLAGS = $(OPT) -std=c++14
 
 VPATH = ../src:.
 MODULE = noxim

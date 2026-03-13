@@ -5,7 +5,7 @@
 # NOTE FOR NOXIM USERS: before running "make" you just have to modify
 # the following variable to point to your SystemC installation path
 #
-SYSTEMC = /usr/local/systemc-2.3.3
+SYSTEMC = /home/lingyun/systemc
 #
 # That's all for you!!!
 
