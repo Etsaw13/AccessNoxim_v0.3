@@ -354,6 +354,7 @@ struct NoximFlit {
 	int           waiting_cnt;      //for counting contention waiting time
 	bool          arr_mid    ;
 	bool          beltway    ;
+	int		   	  packet_size;
 	
 	inline bool operator ==(const NoximFlit & flit) const {
 	return (flit.src_id == src_id && flit.dst_id == dst_id

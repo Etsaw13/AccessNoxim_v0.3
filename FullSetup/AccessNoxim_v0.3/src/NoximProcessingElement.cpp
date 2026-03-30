@@ -144,7 +144,7 @@ void NoximProcessingElement::txProcess()
 					 //while( refly_pkt > 0 ){
 						 if (flit.flit_type==FLIT_TYPE_TAIL)
 							 refly_pkt--;
-						 flit_queue.pop();//�U�@�NHEAD POP���N�|�dbuffer
+						 flit_queue.pop();//�U�@�NHEAD POP���N�|�dbuffer
 						 if( flit_queue.empty() )
 							 break;
 						 else
@@ -1137,7 +1137,7 @@ bool NoximProcessingElement::inROC(NoximCoord s,NoximCoord d){
 	// return false;
 }
 
-bool NoximProcessingElement::inROC_S(NoximCoord s){
+bool NoximProcessingElement::inROC_S(NoximCoord s){ // ROC: Region of Concern ?
 	if( s.x >= _RoC_col_min && s.x <= _RoC_col_max && 
 	    s.y >= _RoC_row_min && s.y <= _RoC_row_max )
 	   	return false;
@@ -1166,6 +1166,7 @@ int NoximProcessingElement::inRing(NoximCoord dest){//Find the ring level of des
 		return g;
 	}
 	else{
+	// 用目的节点 dest 到四边的距离近似，取最小值，作为 ring level
 	int a = dest.x;
 	int b = NoximGlobalParams::mesh_dim_x - dest.x;
 	int c = dest.y;
@@ -1361,7 +1362,7 @@ bool NoximProcessingElement::_beltway_THERMAL(NoximCoord s,NoximCoord d){
 	
 }
 
-int NoximProcessingElement::_NoPScore(const NoximNoP_data & nop_data,
+int NoximProcessingElement::_NoPScore(const NoximNoP_data & nop_data, // score of path
 			  const vector < int >&nop_channels)
 {
     int score = 0;
@@ -1371,6 +1372,8 @@ int NoximProcessingElement::_NoPScore(const NoximNoP_data & nop_data,
 		if (nop_data.channel_status_neighbor[nop_channels[i]].available)available = 1;
 		else			available = 0;
 		int free_slots = nop_data.channel_status_neighbor[nop_channels[i]].free_slots;
+
+		
 		score += (int) available*free_slots; //traffic-&throttling-aware
     }
 
