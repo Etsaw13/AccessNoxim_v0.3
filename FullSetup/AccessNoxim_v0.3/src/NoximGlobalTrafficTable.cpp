@@ -96,6 +96,7 @@ bool NoximGlobalTrafficTable::load(const char *fname)
     return true;
 }
 
+// 返回源节点src_id在周期ccycle时的累计PIR或POR，并将目的节点和对应的累计PIR或POR存储在dst_prob中
 double NoximGlobalTrafficTable::getCumulativePirPor(const int src_id,
 						    const int ccycle,
 						    const bool pir_not_por,
@@ -119,6 +120,7 @@ double NoximGlobalTrafficTable::getCumulativePirPor(const int src_id,
     return cpirnpor;
 }
 
+// 统计源节点出现次数
 int NoximGlobalTrafficTable::occurrencesAsSource(const int src_id)
 {
 	if(NoximGlobalParams::traffic_distribution == TRAFFIC_TABLE_BASED)

@@ -361,7 +361,7 @@ void NoximNoC::buildMesh()
 			//temp_budget[i][j][k]=10;
 		}
 	}
-	
+	///////////////////////////////////////////////////////////////////////////////////////////////
     // dummy NoximNoP_data structure
 	NoximNoP_data tmp_NoP;
     tmp_NoP.sender_id = NOT_VALID;
