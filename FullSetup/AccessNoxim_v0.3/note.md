@@ -34,15 +34,17 @@
 
 - NoximMain
     - 主函数
-    - NoximNoC
+    - `NoximNoC`
     - NoximLog
     - NoximGlobalStats
 
-- NoximNoC
+- `NoximNoC`
     - buildMesh 负责把网络搭好；entry 每周期收集功耗、算温度、做节流决策，再把结果写到日志和拓扑配置里
     - buildMesh()
-        - NoximVLink
-        - NoximTile
+        - `NoximVLink`
+        - `NoximTile`
+            - `router`
+            - `PE`
     - entry() [sc_method]
         - mod: 0 ------------------- P-clean ------------------- P-1
         - 0: 结束clean + 功耗/温度计算 + 紧急决策
@@ -60,4 +62,3 @@
 - NoximVLink
     - 模式1：mesh
     - 模式2：crossbar
-    

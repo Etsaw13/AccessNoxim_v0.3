@@ -1123,6 +1123,26 @@ vector<int> NoximRouter::routingWF_Downward(const NoximCoord& current, const Nox
   return directions;
 }
 
+/*
+vector<int> NoximRouter::CTWR(const NoximCoord& current, const NoximCoord& source, const NoximCoord& destination){
+	// if in the same layer, use west-first routing to destination
+	vector < int >directions;
+	if(current.z == destination.z){
+		directions = routingWestFirst(current, destination); // modify!!
+	}
+	// else if in different layer, use west-first routing to TSV(many)
+	else{
+		
+	}
+}
+
+int NoximRouter::selectionCTWR(const vector < int >&directions){
+	// if in the same layer, cost = cong_loacl + temp_loacl + cong_neighbor + temp_neighbor
+	// else if in different layer, cost = dist + TSV_wear + cong
+	// 
+}
+*/
+
 vector < int >NoximRouter::routingWestFirst(const NoximCoord & current,
 					    const NoximCoord & destination)
 {
