@@ -62,6 +62,7 @@ using namespace std;
 #define ROUTING_DLAR                 17
 #define ROUTING_DLDR                 18
 #define ROUTING_DOWNWARD_CROSS_LAYER 19
+#define ROUTING_YLY					 20
 #define INVALID_ROUTING              -1
 
 // Selection strategies

@@ -183,6 +183,7 @@ SC_MODULE(NoximRouter)
 	vector < int >routingXYZ             (const NoximCoord & current                          ,const NoximCoord & destination);
 	vector < int >routingZXY             (const NoximCoord & current                          ,const NoximCoord & destination);
 	vector < int >routingWestFirst       (const NoximCoord & current                          ,const NoximCoord & destination);
+	vector < int >routingWestFirst_yly   (const NoximCoord & current                          ,const NoximCoord & destination);
     vector < int >routingNorthLast       (const NoximCoord & current                          ,const NoximCoord & destination);
     vector < int >routingNegativeFirst   (const NoximCoord & current                          ,const NoximCoord & destination);
 	vector < int >routingLookAhead       (const NoximCoord & current                          ,const NoximCoord & destination);

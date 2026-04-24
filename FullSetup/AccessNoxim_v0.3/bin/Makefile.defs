@@ -5,7 +5,8 @@
 # NOTE FOR NOXIM USERS: before running "make" you just have to modify
 # the following variable to point to your SystemC installation path
 #
-SYSTEMC = /home/lingyun/systemc
+#SYSTEMC = /home/lingyun/systemc
+SYSTEMC = /home/etsaw/systemc
 #
 # That's all for you!!!
 

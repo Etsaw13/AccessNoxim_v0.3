@@ -388,6 +388,8 @@ vector < int >NoximRouter::routingFunction(const NoximRouteData & route_data)
 	
     switch ( NoximGlobalParams::routing_algorithm ) {
 	/***ACCESS IC LAB's Routing Algorithm***/
+	case ROUTING_YLY:
+	  return routingWestFirst_yly(position, dst_coord);
 	case ROUTING_XYZ:
       return routingXYZ(position, dst_coord);
       
@@ -1029,6 +1031,9 @@ vector<int> NoximRouter::routingZXY(const NoximCoord& current, const NoximCoord&
   return directions;
 }
 
+// 1. 先下沉到指定层（避免过早在高层横向竞争）
+// 2. 在该层做 XY 前进
+// 3. 到目标列后再沿 Z 调整到目标层
 vector<int> NoximRouter::routingDownward(const NoximCoord& current, const NoximCoord& source, const NoximCoord& destination){
 
 	int down_level = NoximGlobalParams::down_level;
@@ -1143,52 +1148,93 @@ int NoximRouter::selectionCTWR(const vector < int >&directions){
 }
 */
 
+vector < int >NoximRouter::routingWestFirst_yly(const NoximCoord & current,
+					    const NoximCoord & destination)
+{
+	vector<int> directions;
+	return directions;
+}
+
 vector < int >NoximRouter::routingWestFirst(const NoximCoord & current,
 					    const NoximCoord & destination)
 {
+	vector<int> directions;
 
-    vector < int >directions;
-    if (destination.x <= current.x || destination.z < current.z || (destination.y == current.y && destination.z == current.z))
-	return routingXYZ(current, destination);
-  
-    if (destination.y < current.y && destination.z == current.z) {
-        directions.push_back(DIRECTION_NORTH);
-        directions.push_back(DIRECTION_EAST);
-    } else if(destination.y > current.y && destination.z == current.z){
-        directions.push_back(DIRECTION_SOUTH);
-        directions.push_back(DIRECTION_EAST);
-    } else
-    if (destination.y < current.y && destination.z > current.z) {
-	directions.push_back(DIRECTION_NORTH);
-	directions.push_back(DIRECTION_EAST);
-	directions.push_back(DIRECTION_DOWN);
-    } else if(destination.y > current.y && destination.z > current.z){
-	directions.push_back(DIRECTION_SOUTH);
-	directions.push_back(DIRECTION_EAST);
-	directions.push_back(DIRECTION_DOWN);
-    } else{
-	//directions.clear();
-	return routingXYZ(current, destination);
-	}
-    //cout<<"dir"<<directions.size()<<endl;
-    return directions;
+      const int dx = destination.x - current.x;                                                                                                                                                                                            
+      const int dy = destination.y - current.y;
+      const int dz = destination.z - current.z;                                                                                                                                                                                            
+                  
+      if (dx < 0) {
+          directions.push_back(DIRECTION_WEST);
+          return directions;
+      }
 
-/*
-    vector < int >directions;
+      if (dx > 0)                                                                                                                                                                                                                          
+          directions.push_back(DIRECTION_EAST);
+                                                                                                                                                                                                                                           
+      if (dy > 0) 
+          directions.push_back(DIRECTION_NORTH);
+      else if (dy < 0)
+          directions.push_back(DIRECTION_SOUTH);
 
-    if (destination.x <= current.x ||  destination.y == current.y)
-        return routingXYZ(current, destination);
-
-    if (destination.y < current.y) {
-        directions.push_back(DIRECTION_NORTH);
-        directions.push_back(DIRECTION_EAST);
-    } else {
-        directions.push_back(DIRECTION_SOUTH);
-        directions.push_back(DIRECTION_EAST);
-    }
-
-    return directions;*/
+	  if (dz > 0) {
+		  directions.push_back(DIRECTION_DOWN);
+	  } else if (dz < 0) {
+		  directions.push_back(DIRECTION_UP);
+	  }
+	  
+	  if (directions.empty())
+      directions.push_back(DIRECTION_LOCAL);
+	  
+      return directions;
 }
+
+// vector < int >NoximRouter::routingWestFirst(const NoximCoord & current,
+// 					    const NoximCoord & destination)
+// {
+
+//     vector < int >directions;
+//     if (destination.x <= current.x || destination.z < current.z || (destination.y == current.y && destination.z == current.z))
+// 	return routingXYZ(current, destination);
+  
+//     if (destination.y < current.y && destination.z == current.z) {
+//         directions.push_back(DIRECTION_NORTH);
+//         directions.push_back(DIRECTION_EAST);
+//     } else if(destination.y > current.y && destination.z == current.z){
+//         directions.push_back(DIRECTION_SOUTH);
+//         directions.push_back(DIRECTION_EAST);
+//     } else
+//     if (destination.y < current.y && destination.z > current.z) {
+// 	directions.push_back(DIRECTION_NORTH);
+// 	directions.push_back(DIRECTION_EAST);
+// 	directions.push_back(DIRECTION_DOWN);
+//     } else if(destination.y > current.y && destination.z > current.z){
+// 	directions.push_back(DIRECTION_SOUTH);
+// 	directions.push_back(DIRECTION_EAST);
+// 	directions.push_back(DIRECTION_DOWN);
+//     } else{
+// 	//directions.clear();
+// 	return routingXYZ(current, destination);
+// 	}
+//     //cout<<"dir"<<directions.size()<<endl;
+//     return directions;
+
+// /*
+//     vector < int >directions;
+
+//     if (destination.x <= current.x ||  destination.y == current.y)
+//         return routingXYZ(current, destination);
+
+//     if (destination.y < current.y) {
+//         directions.push_back(DIRECTION_NORTH);
+//         directions.push_back(DIRECTION_EAST);
+//     } else {
+//         directions.push_back(DIRECTION_SOUTH);
+//         directions.push_back(DIRECTION_EAST);
+//     }
+
+//     return directions;*/
+// }
 
 vector < int >NoximRouter::routingNorthLast(const NoximCoord & current,
 					    const NoximCoord & destination)

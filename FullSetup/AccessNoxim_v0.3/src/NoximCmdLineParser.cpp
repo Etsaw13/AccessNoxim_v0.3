@@ -265,6 +265,8 @@ void parseCmdLine(int arg_num, char *arg_vet[])
 		char *routing = arg_vet[++i];
 		if      (!strcmp(routing, "xyz"          ))
 		    NoximGlobalParams::routing_algorithm = ROUTING_XYZ;
+		else if (!strcmp(routing, "yly"          ))
+		    NoximGlobalParams::routing_algorithm = ROUTING_YLY;
 		else if (!strcmp(routing, "zxy"          ))
 		    NoximGlobalParams::routing_algorithm = ROUTING_ZXY;
 		else if (!strcmp(routing,"downward"      )){ 
