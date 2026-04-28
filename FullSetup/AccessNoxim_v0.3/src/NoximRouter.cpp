@@ -1173,9 +1173,9 @@ vector < int >NoximRouter::routingWestFirst(const NoximCoord & current,
           directions.push_back(DIRECTION_EAST);
                                                                                                                                                                                                                                            
       if (dy > 0) 
-          directions.push_back(DIRECTION_NORTH);
-      else if (dy < 0)
           directions.push_back(DIRECTION_SOUTH);
+      else if (dy < 0)
+          directions.push_back(DIRECTION_NORTH);
 
 	  if (dz > 0) {
 		  directions.push_back(DIRECTION_DOWN);
@@ -1183,8 +1183,8 @@ vector < int >NoximRouter::routingWestFirst(const NoximCoord & current,
 		  directions.push_back(DIRECTION_UP);
 	  }
 	  
-	  if (directions.empty())
-      directions.push_back(DIRECTION_LOCAL);
+	//   if (directions.empty())
+    //   directions.push_back(DIRECTION_LOCAL);
 	  
       return directions;
 }
