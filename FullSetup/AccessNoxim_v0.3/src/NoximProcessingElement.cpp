@@ -177,26 +177,26 @@ void NoximProcessingElement::txProcess()
 		if( ack_semi_tx.read() == 1){
 			req_semi_tx.write(0);
 			if( !flit_queue.empty() ){
-			     if( refly_pkt > 0 ){
-				flit = flit_queue.front();
-				NoximPacket p;
-				assert( flit.mid_id < MAX_ID + 1);
-				assert( flit.dst_id < MAX_ID + 1);
-				p.src_id = flit.mid_id;
-				p.dst_id = flit.dst_id;
-				while(!TLA(p)){
-					if( flit.flit_type == FLIT_TYPE_HEAD ){
-						NoximCoord flit_dst = id2Coord(flit.dst_id);
-						if ( throttling[flit_dst.x][flit_dst.y][flit_dst.z] )cout<< getCurrentCycleNum() << ":Packet drop.(dst)\t"<<"refly pkt: "<<refly_pkt<<endl;
-						else cout<< getCurrentCycleNum() << ":"<<flit<<" drop."<<endl;
-					}
-					flit_queue.pop();
-					if ( flit.flit_type == FLIT_TYPE_TAIL) refly_pkt--;
-					if ( refly_pkt == 0)break;
+			    if( refly_pkt > 0 ){
 					flit = flit_queue.front();
+					NoximPacket p;
+					assert( flit.mid_id < MAX_ID + 1);
+					assert( flit.dst_id < MAX_ID + 1);
 					p.src_id = flit.mid_id;
 					p.dst_id = flit.dst_id;
-				}
+					while(!TLA(p)){
+						if( flit.flit_type == FLIT_TYPE_HEAD ){
+							NoximCoord flit_dst = id2Coord(flit.dst_id);
+							if ( throttling[flit_dst.x][flit_dst.y][flit_dst.z] )cout<< getCurrentCycleNum() << ":Packet drop.(dst)\t"<<"refly pkt: "<<refly_pkt<<endl;
+							else cout<< getCurrentCycleNum() << ":"<<flit<<" drop."<<endl;
+						}
+						flit_queue.pop();
+						if ( flit.flit_type == FLIT_TYPE_TAIL) refly_pkt--;
+						if ( refly_pkt == 0)break;
+						flit = flit_queue.front();
+						p.src_id = flit.mid_id;
+						p.dst_id = flit.dst_id;
+					}
 				}
 				if( refly_pkt > 0 ){
 					flit = flit_queue.front();
@@ -601,6 +601,7 @@ void NoximProcessingElement::RTM_set_var(int non_throt_layer, int non_beltway_la
     _RoC_row_max       = RoC_row_max      ;
 }
 
+/* 选择路由算法*/
 bool NoximProcessingElement::TLA( NoximPacket & packet )
 {
  NoximCoord curr = id2Coord( packet.src_id );
@@ -624,9 +625,11 @@ bool NoximProcessingElement::TLA( NoximPacket & packet )
 			packet.routing = ROUTING_WEST_FIRST_DOWNWARD;
 		return true;
 	}
-	// cout<<"TLA start-A"<<endl;
-    if(throttling[dest.x][dest.y][dest.z] == 0){//destination not throttle
-	    //XY-Plane
+
+	
+    if(throttling[dest.x][dest.y][dest.z] == 0){//destination not throttle // 目的地没有被throttle
+	
+	// 遍历从当前节点到目标节点的所有可能路径，检查是否存在被限制的方向。
 	for( z_a = 0 ; z_a < abs(z_diff) + 1 ; z_a++ ){
 		for( y_a = 0 ; y_a < abs(y_diff) + 1 ; y_a ++ )
 		for( x_a = 0 ; x_a < abs(x_diff) + 1 ; x_a ++ ){
@@ -640,8 +643,9 @@ bool NoximProcessingElement::TLA( NoximPacket & packet )
 			//a_z_search = (z_diff>0)?(curr.z + z_a):(curr.z - z_a);
 			//adaptive_fail |= throttling[dest.x][dest.y][a_z_search];
 		}
-// cout<<"TLA start-XY"<<endl;
+
 	 /***Into XY Routing***/
+	 // 如果自适应路由失败，则检查 XY 路由是否可行。遍历 X、Y、Z 三个方向，检查是否存在被限制的路径。
 	if( adaptive_fail == true ){
         //X-direction
 		for( x_a = 1 ; x_a < abs(x_diff) + 1 ; x_a++ ){
@@ -659,7 +663,6 @@ bool NoximProcessingElement::TLA( NoximPacket & packet )
 			xy_fail |= throttling[dest.x][dest.y][a_z_search]; 
 		}
 	}
-	// cout<<"TLA start-DW"<<endl;
     /***Into Downward Routing***/
 	if(xy_fail == true){
 		dw_fail_src = false;
@@ -726,7 +729,7 @@ bool NoximProcessingElement::TAAR( NoximPacket & p ){
 		p.mid_id  = p.src_id;
 	}
 	if ( p.routing  > 19 ){
-		cout<<p.routing<<endl;
+		cout<<p.routing<<endl;// TODO
 		assert(false);
 	}
 	return true;
@@ -1456,3 +1459,5 @@ void NoximProcessingElement::ResetTransient_Transmit(){
 	_Transient_mid_dw_transmit      =0;
 	_Transient_beltway_transmit     =0;
 }
+
+// TODO: beltway

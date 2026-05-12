@@ -17,8 +17,9 @@ extern int wait_cnt[200];
 
 void NoximRouter::rxProcess(){
 	int i,j,k;
-	if (NoximGlobalParams::verbose_mode > VERBOSE_LOW ) 
+	if (NoximGlobalParams::verbose_mode > VERBOSE_LOW ) {
 		cout<<"Router[" << local_id << "]-Rx"<<endl;
+	}
     if (reset.read()) {
 		// Clear outputs and indexes of receiving protocol
 		for ( i = 0; i < DIRECTIONS + 2; i++){ 
@@ -86,7 +87,7 @@ void NoximRouter::txProcess(){
 		for (int i = 0; i < DIRECTIONS + 2; i++){// 0~6 DIRECTIONS + 2 = 8 
 			req_tx[i].write(0);
 			waiting[i]     = 0;
-			}
+		}
 		_total_waiting  = 0;
 		for (int i = 0; i < 200; i++){ 
 			wait_cnt[i]     = 0;
@@ -94,7 +95,7 @@ void NoximRouter::txProcess(){
     }
 	else {
 		// 1st phase: Reservation
-	//if(getCurrentCycleNum()%RST == 0){
+		//if(getCurrentCycleNum()%RST == 0){
 /*
 	for (int j = 0; j < DIRECTIONS + 2; j++) {
                         int i = (start_from_port + j) % (DIRECTIONS + 2);
@@ -186,7 +187,7 @@ void NoximRouter::txProcess(){
 					//
 
 					if (reservation_table.isAvailable(o) && (getCurrentCycleNum()%DFS)<(8-RST))// && packet_num[i] > 0
-					 {     
+					{     
 						//if(reservation_table.getOutputPort(i) != o && reservation_table.getOutputPort(i) != NOT_RESERVED)
 						reservation_table.reserve(i, o);
 						if (NoximGlobalParams::verbose_mode > VERBOSE_OFF ) {
